@@ -4,28 +4,28 @@ body {
     font-weight: 300;
 }
 
-.text-muted{
+.text-muted {
     color: #bcbbbb;
 }
 
-.text-thin{
+.text-thin {
     font-weight: 100;
 }
 
-.title-super{
+.title-super {
     font-size: 60px;
 }
 
-.title-logo{
+.title-logo {
     margin-top: 20px;
 }
 
-hr{
+hr {
     background-color: #747704;
     height: 2px;
 }
 
-.right-side{
+.right-side {
     float:right;
 }
 
